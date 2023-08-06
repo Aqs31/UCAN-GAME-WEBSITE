@@ -1,4 +1,4 @@
-![Screenshot (203)](https://github.com/Aqs31/UCAN-GAME-WEBSITE/assets/88832346/fe0ced57-9e4d-4bb9-9a31-4e5cab7a10ed)# UCAN-GAME-WEBSITE
+ #UCAN-GAME-WEBSITE
 Created this website during a one day Hackathon Organized by cummins college of engineering for women nagpur on theme of "BETI BACHAO BETI PADAO"
 
 ![Screenshot (200)](https://github.com/Aqs31/UCAN-GAME-WEBSITE/assets/88832346/f06d9d8d-ca0e-46e4-b96a-2986e190453c)
